@@ -23,7 +23,7 @@ train::~train()
 
     for(int i=0; i<totalWaggons; i++)
         delete trainWaggons[i];
-    delete trainWaggons;
+    delete[] trainWaggons;
 }
 
 
