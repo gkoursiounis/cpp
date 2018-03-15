@@ -4,13 +4,16 @@ Programming language: C++
 
 # Tools required
 
-Implementation of our own ([simple linked list]())
+Implementation of our own [simple linked list]()
 
 # 
 
 
 # How to run
 
+```
+g++ 
+```
 
 
 
