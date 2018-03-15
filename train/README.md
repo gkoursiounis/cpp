@@ -2,6 +2,10 @@
 
 Programming language: C++
 
+Exercises set A
+
+Exercise 1
+
 ## Required solution tools
 
 Implementation of our own [simple linked list](https://github.com/gkoursiounis/cpp/blob/master/train/linkedList.h)
