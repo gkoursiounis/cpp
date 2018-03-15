@@ -4,7 +4,7 @@ Programming language: C++
 
 ## Tools required
 
-Implementation of our own [simple linked list]()
+Implementation of our own [simple linked list](https://github.com/gkoursiounis/cpp/blob/master/train/linkedList.h)
 
 ## Description
 
