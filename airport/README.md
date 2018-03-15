@@ -8,25 +8,20 @@ Exercise 2
 
 ## Short description
 
-Sto aerodrìmio ekteloÔntai
-kpoiec pt seic (
-ights) me sugkekrimènouc proorismoÔc kai sugkekrimènec ¸rec anaq¸rhshc.
-Oi njrwpoi pou jèloun na taxidèyoun knoun mia aÐthsh (application) sthn opoÐa perigrfoun
-poÔ jèloun na pne kai ti ¸ra jèloun na èqoun ftsei. 'Epeita sto aerodrìmio apofasÐzetai
-se poia pt sh ja epibibastoÔn. Kaj¸c o qrìnoc kul, pt seic anaqwroÔn kai ait seic mènoun
-anikanopoÐhtec.
+The airport sets a number of departing flights with specific destinations and departure time. Passengers who wish to travel fill in an application form in which they declare their destination as well as the desirable time of arrival. The airport decides to which flight the passenger will be added. The airport works on a spesific timetable and has an active current time. Flights take off only during its operation.
 
 ## Notes
 
-Open "flights" and "applications" files using pico in linux. You may use notepad by "Open with"->"Notepad" in windows
+* Open ["flights"](https://github.com/gkoursiounis/cpp/blob/master/airport/flights) and ["applications"](https://github.com/gkoursiounis/cpp/blob/master/airport/applications) files using pico in linux. You may use notepad by "Open with"->"Notepad" in windows
+* [main.cpp](https://github.com/gkoursiounis/cpp/blob/master/airport/main.cpp) file is a demo
 
 ## How to run
 Compile:
 ```
 g++ main.cpp airport_member_functions.cpp flight_member_functions.cpp  application_member_functions.cpp
 ```
-Run. Type in command line:
+Run. Type the time units the airport is operative:
 ```
-./a.out <N> <totalWaggons> <maxCapacity> <finePrice>
+./a.out <time>
 ```
 
