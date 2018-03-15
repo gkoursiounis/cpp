@@ -12,7 +12,7 @@ The auction includes a collection of artifacts (**sculptures**, **paintings**) t
 
 * Using stringstreams for "creatorI" as suggested at lists.di.uoa.gr
 * Index [0, N-1]
-* NOT using enumerations for "movement", "condition" etc. as suggested at [lists.di.uoa.gr](lists.di.uoa.gr)
+* NOT using enumerations for "movement", "condition" etc. as suggested at [lists.di.uoa.gr](http://lists.di.uoa.gr/)
 * if (argv[2] = movement && argv[3] = condition) from command line are wrong, then "evaluation" will give 0 every time we run it
 * Default behavior (about "good" and "excellent") is implemented
 
