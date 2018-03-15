@@ -2,6 +2,7 @@
 
 ## Table of contents
 * Simulation of an Airport ([airport](https://github.com/gkoursiounis/cpp/tree/master/airport))
+* Simulation of an auction of artifacts ([auction](https://github.com/gkoursiounis/cpp/tree/master/auction))
 * Subway train simulation and passenger ticket check ([train](https://github.com/gkoursiounis/cpp/tree/master/train))
 * Solving a variety of problems using Genetic Algortihms (GAs) ([ga](https://github.com/gkoursiounis/c/tree/master/ga))
     - Part 1: Bit sequence guess with the use of a genetic algorithm ([guessga](https://github.com/gkoursiounis/c/tree/master/ga/guessga))
