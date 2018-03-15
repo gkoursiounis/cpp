@@ -1,4 +1,4 @@
-# Simulation of an Airport
+# Simulation of an auction of artifacts
 
 Programming language: C++
 
