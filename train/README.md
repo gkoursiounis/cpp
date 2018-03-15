@@ -21,7 +21,7 @@ Compile:
 ```
 g++ main.cpp linkedList.cpp trainMemberFunctions.cpp waggonMemberFunctions.cpp
 ```
-Run. Type in command line to set **number of waggons**, **max waggon capacity** and **ine price**:
+Run. Type in command line to set **number of waggons**, **max waggon capacity** and **fine price**:
 ```
 ./a.out <N> <totalWaggons> <maxCapacity> <finePrice>
 ```
