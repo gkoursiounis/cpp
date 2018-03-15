@@ -1,6 +1,19 @@
 # Subway train simulation and passenger ticket check
 
-Obect
+Programming language: C++
+
+# Tools required
+
+Implementation of our own ([simple linked list]())
+
+# 
+
+
+# How to run
+
+
+
+
 Υλοποιήστε σε C++ την προσομοίωση ενός τρένου του μετρό. Το τρένο έχει totalW aggons
 βαγόνια. Κάθε βαγόνι μπορεί να έχει το πολύ maxCapacity επιβάτες. Κάθε επιβάτης έχει ή
 δεν έχει εισιτήριο, και μπορεί να δικαιούται μειωμένο εισιτήριο ή όχι. Το τρένο λειτουργεί για
