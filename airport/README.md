@@ -8,7 +8,7 @@ Exercise 2
 
 ## Short description
 
-The airport sets a number of departing flights with specific destinations and departure time. Passengers who wish to travel fill in an application form in which they declare their destination as well as the desirable time of arrival. The airport decides to which flight the passenger will be added. The airport works on a spesific timetable and has an active current time. Flights take off only during its operation.
+The airport sets a number of departing flights with specific destinations and departure time. Passengers who wish to travel fill in an application form in which they declare their destination as well as the desirable time of arrival. The airport decides to which flight the passenger will be added. Also, it works on a spesific timetable and has an active current time. Flights take off only during its operation.
 
 ## Notes
 
