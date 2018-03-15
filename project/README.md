@@ -11,7 +11,7 @@ The game is about battles between **heroes** and **monsters**. Heroes use **item
 * Heroes battle the same number of monsters. As a result, money and experience is given per level.
 * Heroes have levels (1 to 4). Every monster has a level close to the level of the hero it battles against (level-1,level,level+1). 
 * Monsters are created every time a battle begins. Some monsters might have the same name. For more information enter the "info" option.
-* Market contains a limited amount of [items](https://github.com/gkoursiounis/cpp/blob/master/project/Item.h) and [spells](https://github.com/gkoursiounis/cpp/blob/master/project/Spell.h). That's why we decided to include its information directly in the code (by default). 
+* [Market](https://github.com/gkoursiounis/cpp/blob/master/project/Market.h ) contains a limited amount of [items](https://github.com/gkoursiounis/cpp/blob/master/project/Item.h) and [spells](https://github.com/gkoursiounis/cpp/blob/master/project/Spell.h). That's why we decided to include its information directly in the code (by default). 
 * Market is an independent class and a hero can access it without the grid's existence. This is because in a potential extension of the game we migth wish to have direct access to the market from every square of the grid.
 * Heroes exist independently from the grid.
 * Monsters.damageRange value is an abs() distance of the random() monsters damage.
