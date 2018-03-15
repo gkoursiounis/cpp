@@ -2,16 +2,16 @@
 
 Programming language: C++
 
-# Tools required
+## Tools required
 
 Implementation of our own [simple linked list]()
 
-# Description
+## Description
+
+A train travels into a subway system and visits N stations.
 
 
-
-
-# How to run
+## How to run
 
 ```
 g++ main.cpp linkedList.cpp trainMemberFunctions.cpp waggonMemberFunctions.cpp
