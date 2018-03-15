@@ -1,8 +1,8 @@
 # C++ Projects
 
 ## Table of contents
-* Subway train simulation and passenger ticket check ([train](https://github.com/gkoursiounis/cpp/tree/master/train))
 * Simulation of an Airport ([airport](https://github.com/gkoursiounis/cpp/tree/master/airport))
+* Subway train simulation and passenger ticket check ([train](https://github.com/gkoursiounis/cpp/tree/master/train))
 * Solving a variety of problems using Genetic Algortihms (GAs) ([ga](https://github.com/gkoursiounis/c/tree/master/ga))
     - Part 1: Bit sequence guess with the use of a genetic algorithm ([guessga](https://github.com/gkoursiounis/c/tree/master/ga/guessga))
     - Part 2: Maximum number approach of a multiple variable function with the use of a genetic algorithm ([max](https://github.com/gkoursiounis/c/tree/master/ga/max))
