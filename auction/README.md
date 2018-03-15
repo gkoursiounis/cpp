@@ -6,7 +6,7 @@ Exercises set B
 
 ## Short description
 
-The auction includes a collection of artifacts(**sculptures**, **paintings**) to be exhibited. The potential buyer (user) declares the requirementes (movement and condition) of the artifact he is interested in. If an artifact meets the requirements then the auction for this item is 1. Else, 0. Results are printed.
+The auction includes a collection of artifacts (**sculptures**, **paintings**) to be exhibited. The potential buyer (user) declares the requirementes (movement and condition) of the artifact he is interested in. If an artifact meets the requirements then the auction for this item is 1. Else, 0. Results are printed.
 
 ## Notes
 
@@ -21,7 +21,7 @@ Compile:
 ```
 g++ main.cpp classes.cpp
 ```
-Run. Type the the artistic movement(**expressionism**, **nautarlism**, **impressionism**) and the condition (**bad**, **good**, **excellent**) of the arifact we are looking for:
+Run. Type the the artistic movement (**expressionism**, **nautarlism**, **impressionism**) and the condition (**bad**, **good**, **excellent**) of the arifact we are looking for:
 ```
 a.out <N> <movement> <condition>
 ```
